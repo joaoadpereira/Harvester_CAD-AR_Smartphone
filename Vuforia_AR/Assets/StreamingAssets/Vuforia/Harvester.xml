@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Harvester"/>
+
+</Tracking>
+
+<Assembly name="Harvesters_assembly" assemblyId="c3e1218f566149e6a2e5ffbe780ae22f">
+<Part name="Harvester" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="1.08493 0.845469 13.8626" rotation="AD: 0.9999970839712429 0.0034585959371790397 -0.9754166980274125 180.291">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.573623 0.85226 12.9051" rotation="AD: -0.9999264094211681 -0.012602627597585929 3.5542785630323843 179.89">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.511312 0.852515 12.8691" rotation="AD: 0.9999089825054756 -0.013922413775512232 3.9264936176840286 180.1">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-1.08493 0.845979 13.7907" rotation="AD: 0.9999966143443666 -0.0036351029770687014 1.0251964112853182 180.284">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="-0.573623 0.839189 14.7482" rotation="AD: 0.9999999635103585 -0.0009975305424598803 0.2813303333436831 180.391">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.511312 0.838934 14.7842" rotation="AD: 0.9999999751733798 0.0009029531225305176 -0.2546569675238356 180.394">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
