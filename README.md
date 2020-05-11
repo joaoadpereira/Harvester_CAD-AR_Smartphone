@@ -51,7 +51,7 @@ With the use of a smartphone, the user may obtain the harvester model when point
 
 This project shows the process of converting industrial CAD models to Augmented Reality in a smartphone, using Unity and Vuforia engines. A similar process may be done with other complex CAD models and include dynamic simulation and human interaction. 
 
-The results of this project were presented on [the Roadshow](https://www.youtube.com/watch?time_continue=149&v=yKwv1fVc4s4&feature=emb_logo) of [the Mobile VR/AR project](https://www.seamk.fi/yrityksille/tki-projektit/mobiilivrar/).   
+The results of this project were presented on [the Roadshow](https://www.youtube.com/watch?v=yKwv1fVc4s4) of [the Mobile VR/AR project](https://www.seamk.fi/yrityksille/tki-projektit/mobiilivrar/).   
 
 <p align="center">
 <img src="https://github.com/joaoadpereira/Harvester_CAD-AR_Smartphone/blob/master/Images/AR_harvester.png" height="250"> 
