@@ -5,7 +5,7 @@ This project presents a Augmented Reality app to visualize a Harvester CAD model
 Check the results of the project in this video: 
 
 <p align="center">
-  <a href="https://www.youtube.com/embed/UnIzklv86Jo"><img src="https://github.com/joaoadpereira/Harvester_CAD-AR_Smartphone/blob/master/Images/youtube_screenshot_AR.PNG" height="250" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=UnIzklv86Jo"><img src="https://github.com/joaoadpereira/Harvester_CAD-AR_Smartphone/blob/master/Images/youtube_screenshot_AR.PNG" height="250" alt="IMAGE ALT TEXT"></a>
 </div>
 
 
